@@ -1,5 +1,5 @@
 # Youtube Analyzer
-- X
+Leverages NLP techniques and machine learning models to analyze comments in Youtube
 
 ## Try it out
 - Access the web app here: [Youtube Analyzer](https://yt-analyzer.streamlit.app/) 🚀
@@ -9,12 +9,16 @@
   - launch streamlit app: `streamlit run app.py`
 
 ## Features
-- X
+- retrieve youtube video comments data with youtube api
+- preprocessing with nltk (lemmatize, stem, tokenize, stopwords, lowercase)
+- sentiment analysis with NLTK and plotly
+- emotion classification with distilbert-base-uncased-emotion
+- toxicity detection with unitary/toxic-bert
+- topic analysis with gensim LDA model
+- word cloud
 
 ## Screenshots
 ![yt-analyzer-streamlit-app-ss](https://github.com/user-attachments/assets/3098e95e-319f-4d99-8fb3-bdde67e48885)
-
-
 
 ## References
 - youtube API: https://developers.google.com/youtube/v3/determine_quota_cost
