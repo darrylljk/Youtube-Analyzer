@@ -1,5 +1,5 @@
 # Youtube Analyzer
-Leverages NLP techniques and machine learning models to analyze comments in Youtube
+Analyze YouTube comments with natural language processing and machine learning
 
 ## Try it out
 - Access the web app here: [Youtube Analyzer](https://yt-analyzer.streamlit.app/) 🚀
