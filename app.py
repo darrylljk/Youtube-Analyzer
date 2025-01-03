@@ -298,7 +298,7 @@ API_KEY = st.secrets['api_key'] # streamlit
 # app title
 st.title("YouTube Comments Analyzer")
 st.write("This app helps you to analyze the comments section of any YouTube video.")
-st.write("_To get started, paste a YouTube video URL in the sidebar, click Analyze, and wait (~15s) for the page to load._")
+st.write("_To get started, paste a YouTube video URL in the sidebar, click Analyze, and wait (~15s) for the analysis to run._")
 
 # input fields
 st.sidebar.header("Input YouTube Video")
