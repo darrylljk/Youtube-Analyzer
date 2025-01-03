@@ -292,7 +292,8 @@ def summarize_comments(comments, max_length=50, min_length=10):
 # streamlit app
 # -------------------------------------------------------
 # youtube api key 
-API_KEY = "AIzaSyDYTVEhitEj3ikH2YC6riFaBfaM65aBwAo"
+API_KEY = api_key # streamlit
+# API_KEY = "insert API key here" # local
 
 # app title
 st.title("YouTube Comments Analyzer")
