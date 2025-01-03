@@ -22,6 +22,10 @@ Analyze YouTube comments with natural language processing and machine learning
 
 ## References
 - youtube API: https://developers.google.com/youtube/v3/determine_quota_cost
+- NLTK: https://www.nltk.org/
+- gensim: https://pypi.org/project/gensim/
+- huggingface: https://huggingface.co/
+- plotly: https://plotly.com/
   
 ## Contact
 Darryl Lee - [LinkedIn](https://www.linkedin.com/in/darryl-lee-jk/)
